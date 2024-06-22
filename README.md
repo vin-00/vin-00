@@ -19,6 +19,7 @@
 
 - ⚡ Fun fact **I love binge-watching sci-fi TV shows and movies, with "Manifest" being one of my favorites.**
 
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vinay-khatri-751607273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinay-khatri-751607273" height="30" width="40" /></a>
@@ -26,6 +27,7 @@
 <a href="https://auth.geeksforgeeks.org/user/vinaykhamjtz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vinaykhamjtz" height="30" width="40" /></a>
 </p>
 
+---
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -60,6 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
+---
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
