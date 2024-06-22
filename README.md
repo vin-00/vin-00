@@ -24,6 +24,10 @@
 <a href="https://auth.geeksforgeeks.org/user/vinaykhamjtz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vinaykhamjtz" height="30" width="40" /></a>
 </p>
 
+<div align="center">
+  <img height="200" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"  />
+</div>
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -73,7 +77,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vin-00&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<div align="center">
-  <img height="200" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"  />
-</div>
+
 
