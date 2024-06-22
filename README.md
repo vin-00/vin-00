@@ -3,8 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vin-00&label=Profile%20views&color=0e75b6&style=flat" alt="vin-00" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vin-00" alt="vin-00" /></a> </p>
+<!--  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vin-00" alt="vin-00" /></a> </p>
+ -->
 
+ ![](https://leetcard.jacoblin.cool/vinay_kh?ext=contest)
 - 🔭 I’m currently working on **E-commerce Website**
 
 - 🌱 I’m currently learning **NextJs**
