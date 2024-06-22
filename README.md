@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vin-00&label=Profile%20views&color=0e75b6&style=flat" alt="vin-00" /> </p>
 
-<span>![](https://leetcard.jacoblin.cool/vinay_kh?ext=contest)</span>
+<p align='center'>![](https://leetcard.jacoblin.cool/vinay_kh?ext=contest)</p>
  
- <span align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vin-00&show_icons=true&locale=en" alt="vin-00" /></span>
+ <p align="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vin-00&show_icons=true&locale=en" alt="vin-00" /></p>
 - 🔭 I’m currently working on **E-commerce Website**
 
 - 🌱 I’m currently learning **NextJs**
