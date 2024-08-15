@@ -9,9 +9,9 @@
 ![](https://leetcard.jacoblin.cool/vinay_kh?ext=contest)
  
  
-- 🔭 I’m currently working on **E-commerce Website**
+- 🔭 I’m currently working on **E-commerce website**
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **Machine learning**
 
 - 💬 Ask me about **React MERN Java**
 
