@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **winkhatri292004@gmail.com**
 
-- ⚡ Fun fact **I love binge-watching sci-fi TV shows and movies, with "Manifest" being one of my favorites.**
+- ⚡ Fun fact **I love binge-watching sci-fi and mystery TV shows and movies, with "From" being one of my favorites.**
 
 ---
 <h3 align="left">Connect with me:</h3>
