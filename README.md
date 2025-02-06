@@ -6,7 +6,7 @@
 
 --- 
 
-![](https://leetcard.jacoblin.cool/win2002?ext=contest)
+![](https://leetcard.jacoblin.cool/vinay_kh?ext=contest)
  
  
 - 🔭 I’m currently working on **E-commerce website**
