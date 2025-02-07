@@ -9,11 +9,11 @@
 ![](https://leetcard.jacoblin.cool/vinay_kh?ext=contest)
  
  
-- 🔭 I’m currently working on **E-commerce website**
+- 🔭 I’m currently working on **Data Science Project**
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Deep learning**
 
-- 💬 Ask me about **React MERN Java**
+- 💬 Ask me about **NextJS React MERN Java**
 
 - 📫 How to reach me **winkhatri292004@gmail.com**
 
